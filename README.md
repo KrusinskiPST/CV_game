@@ -1,2 +1,2 @@
-# CV_game
-Unity 2D Game
+CV_game
+Simple Unity 2D Game

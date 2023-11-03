@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour
     private bool isTouching = false;
     public float zoomInValue = 5f;
     public float zoomOutValue = 10f;
-    public float lerpSpeed = 2f; // Ustawienie prędkości interpolacji
+    public float lerpSpeed = 2f;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
